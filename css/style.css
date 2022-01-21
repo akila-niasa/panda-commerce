@@ -1,0 +1,16 @@
+.info-background{
+    background-color:#FEEAE9 ;
+}
+.categories-img{
+    width: 100px;
+
+}
+.watch-back{
+    background-color: #ffc107;
+}
+.btn-pink{
+    background-color: #ff5599;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
